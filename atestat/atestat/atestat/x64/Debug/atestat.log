@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\Alex\source\repos\atestat2024\atestat\atestat\main.cpp(152,25): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+C:\Users\Alex\source\repos\atestat2024\atestat\atestat\main.cpp(161,25): warning C4566: character represented by universal-character-name '\u0103' cannot be represented in the current code page (1252)
+C:\Users\Alex\source\repos\atestat2024\atestat\atestat\main.cpp(101,26): warning C4101: 'k': unreferenced local variable
+C:\Users\Alex\source\repos\atestat2024\atestat\atestat\main.cpp(101,29): warning C4101: 'y': unreferenced local variable
+C:\Users\Alex\source\repos\atestat2024\atestat\atestat\main.cpp(101,92): warning C4101: 'dr': unreferenced local variable
+C:\Users\Alex\source\repos\atestat2024\atestat\atestat\main.cpp(101,12): warning C4101: 'i': unreferenced local variable
+C:\Users\Alex\source\repos\atestat2024\atestat\atestat\main.cpp(101,88): warning C4101: 'st': unreferenced local variable
+  atestat.vcxproj -> C:\Users\Alex\source\repos\atestat2024\atestat\x64\Debug\atestat.exe
